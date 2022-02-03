@@ -1,8 +1,8 @@
-# Testing in Jetpack Compose Codelab
+# Testing in Jetpack Compose
 
 This folder contains the source code for the
-[Testing in Jetpack Compose Codelab ](https://developer.android.com/codelabs/jetpack-compose-testing)
-codelab.
+[Testing in Jetpack Compose ](https://developer.android.com/codelabs/jetpack-compose-testing)
+
 
 ## License
 ```
